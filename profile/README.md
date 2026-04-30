@@ -9,7 +9,7 @@
     <strong>Links</strong>
     <li><a href="https://purpleswing.itch.io/">itch.io</a></li>
     <li><a href="https://www.youtube.com/@purpleswingteam">YouTube Channel</a></li>
-    <li><a href="https://purpleswing.neocities.org/">Website</a></li>
+    <li><a href="https://purpleswing.com/">Website</a></li>
 </ul>
 
 <ul>
