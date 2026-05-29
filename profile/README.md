@@ -38,15 +38,4 @@
 | grza3 | [YouTube](https://www.youtube.com/@kintercat), [Instagram](https://www.instagram.com/grza333/), [Bluesky](https://bsky.app/profile/grza3.bsky.social)  | [Discord](https://discord.com/users/594673866165714964) |
 | freble | [YouTube](https://www.youtube.com/@freble_clef) | [Discord](https://discord.com/users/792482375962591252) |
 
-
-
----
-
-#### Logo Usage
-When the Purple Swing logo is used it must abide by the following rules:
-
-- Only use hue shifting, do not change individual colours (**Other Text** #0fd153 | **Slinko** #a71fc8)
-- Font must be [*Poppins Bold*](https://www.1001fonts.com/poppins-font.html)
-- The S on the Purple Swing logo must always resemble the mascot **Slinko** and always has to have the 2 signature eyes with a faint white glow effect below them, it must be a different colour from the rest of the logo.
-
 [*Download logo assets*](/pageAssets/)
