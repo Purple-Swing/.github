@@ -30,6 +30,8 @@
 
 ---
 
+<section id="contact">
+
 #### Current Team Members
 
 | Member | Socials | Contact |
@@ -37,5 +39,7 @@
 | Tureen | [YouTube](https://www.youtube.com/@Tureen), [Twitter](https://x.com/TureenX), [Bluesky](https://bsky.app/profile/tureen.bsky.social) | [Discord](https://discord.com/users/592063267455631380)
 | grza3 | [YouTube](https://www.youtube.com/@kintercat), [Instagram](https://www.instagram.com/grza333/), [Bluesky](https://bsky.app/profile/grza3.bsky.social)  | [Discord](https://discord.com/users/594673866165714964) |
 | freble | [YouTube](https://www.youtube.com/@freble_clef) | [Discord](https://discord.com/users/792482375962591252) |
+
+</section>
 
 [*Download logo assets*](/pageAssets/)
