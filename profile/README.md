@@ -1,38 +1,26 @@
-<img src="/pageAssets/LOGO.png"></img>
-<p align="center" style="font-weight: 600">© Purple Swing (2026) - Some rights reserved</p>
+<img align="center" src="/pageAssets/PS-logo.png"></img>
+
+<p align="center" style="font-weight: 600">© Purple Swing (2026) - Some rights reserved<br>
+<a href="https://purpleswing.com/">Website</a> | <a href="https://purpleswing.itch.io/">itch.io</a> | <a href="https://www.youtube.com/@purpleswingteam">YouTube</a> | <a href="https://discord.gg/q2hjNA5g5f">Discord Server</a></p>
 
 ---
 
-#### Portfolio
-
-<ul>
-    <strong>Links</strong>
-    <li><a href="https://purpleswing.itch.io/">itch.io</a></li>
-    <li><a href="https://www.youtube.com/@purpleswingteam">YouTube Channel</a></li>
-    <li><a href="https://purpleswing.com/">Website</a></li>
-</ul>
-
-<ul>
-    <strong>Projects</strong>
-    <li><a href="https://github.com/Purple-Swing/Reign">Reign</a></li>
-    <li><a href="https://purpleswing.itch.io/fbh2">Flarp Birb Horror 2</a></li>
-    <li><a href="https://purpleswing.itch.io/gfb2">Great Flarp Birb 2</a></li>
-    <li><a href="https://purpleswing.itch.io/fbh">Flarp Birb Horror</a></li>
-    <li><a href="https://purpleswing.itch.io/gfb">Great Flarp Birb</a></li>
-</ul>
-
-
----
+<section id="about">
 
 #### About
 
-**Purple Swing** is an indie team of members working to make creative projects (music, art and games) come to life.
+<img align="center" src="/pageAssets/PS-background.png"></img>
+<br>
+
+**Purple Swing** is a 3 member indie development team working to create passionate projects for the people that want to see them.
+
+</section>
 
 ---
 
 <section id="contact">
 
-#### Current Team Members
+#### Members & Information
 
 | Member | Socials | Contact |
 | ------ | ------- | ------- |
@@ -41,5 +29,7 @@
 | freble | [YouTube](https://www.youtube.com/@freble_clef) | [Discord](https://discord.com/users/792482375962591252) |
 
 </section>
+
+---
 
 [*Download logo assets*](/pageAssets/)
